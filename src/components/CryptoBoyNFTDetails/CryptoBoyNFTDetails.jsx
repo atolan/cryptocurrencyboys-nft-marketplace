@@ -11,6 +11,7 @@ class CryptoBoyNFTDetails extends Component {
   callChangeTokenPriceFromApp = (tokenId, newPrice) => {
     this.props.changeTokenPrice(tokenId, newPrice);
   };
+  
 
   render() {
     return (
