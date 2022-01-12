@@ -153,4 +153,3 @@ const CryptoBoyNFTImage = ({ colors }) => {
 };
 
 export default CryptoBoyNFTImage;
-

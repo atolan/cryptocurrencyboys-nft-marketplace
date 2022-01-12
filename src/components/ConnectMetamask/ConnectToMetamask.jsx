@@ -28,5 +28,4 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
   );
 };
 
-
 export default ConnectToMetamask;
